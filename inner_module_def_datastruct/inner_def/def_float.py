@@ -1,3 +1,4 @@
+# 1. 将字符串转换为浮点数
 s = '3.14'
 f = float(s)
 print(type(f), f)

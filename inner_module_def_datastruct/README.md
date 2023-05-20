@@ -13,6 +13,7 @@
 ## inner_def 内置函数
 * abs()
 * all()
+* aiter()
 * any()
 * ascii()
 * bin()
@@ -81,6 +82,24 @@
 * with()
 * zip()
 * __import__()
+
+#### BLOG
+Python基础之最新的73个内置函数（1）
+https://mp.weixin.qq.com/s/F9_G5KjTubhBNtnU_1hr1Q
+Python基础之最新的73个内置函数（2）
+https://mp.weixin.qq.com/s/8ownt0SveZQKnsLauP2rOg
+Python基础之最新的73个内置函数（3）
+https://mp.weixin.qq.com/s/tKBwtoFyUHhyTuyqs2rGUw
+Python基础之最新的73个内置函数（4）
+https://mp.weixin.qq.com/s/Y36qc4Tkw0yQpQyuNdEmTA
+Python基础之最新的73个内置函数（5）
+https://mp.weixin.qq.com/s/bsCLCRZBNiT25wOmU1-Kwg
+Python基础之最新的73个内置函数（6）
+https://mp.weixin.qq.com/s/jPqx8q2rTG8MtpfZuCVJGw
+Python基础之最新的73个内置函数（7）
+https://mp.weixin.qq.com/s/heBcQKNO7Ny1CCerZav__A
+
+
 
 ## inner_function 内置方法
 * __eq__()
