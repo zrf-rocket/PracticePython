@@ -1,6 +1,8 @@
 # Python
 
-主要基于Python3.11。以及Python2/3.6、3.8、3.10、3.11各自版本的特性。
+主要基于Python3.11。以及Python2/3.6、3.8、3.10、3.11各自版本的特性。  
+BLOG [https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q](https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q)  
+<img src="./static/wechat.png" style="width:600px">
 
 ## 涉及内容：
 
