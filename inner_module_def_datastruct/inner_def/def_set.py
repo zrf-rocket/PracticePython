@@ -12,3 +12,10 @@ print(s1.intersection(s2))  # 输出：{3, 4, 5}
 
 # s1不同于s2的元素
 print(s1.difference(s2))  # 输出：{1, 2}
+
+
+from inner_module_def_datastruct import WEIXIN_URL
+
+a = [1, 2.2, WEIXIN_URL]
+b = [WEIXIN_URL, False]
+print(set(a).union(set(b)))
