@@ -25,13 +25,19 @@ Python2与Python3的9点差异对比总结
 
 ### 内置函数
 
-[Python基础必备之最新的73个内置函数（1）]()
-[Python基础必备之最新的73个内置函数（2）]()
-[Python基础必备之最新的73个内置函数（3）]()
-[Python基础必备之最新的73个内置函数（4）]()
-[Python基础必备之最新的73个内置函数（5）]()
-[Python基础必备之最新的73个内置函数（6）]()
-[Python基础必备之最新的73个内置函数（7）]()
+[Python基础之最新的73个内置函数（1）](https://mp.weixin.qq.com/s/F9_G5KjTubhBNtnU_1hr1Q)
+
+[Python基础之最新的73个内置函数（2）](https://mp.weixin.qq.com/s/8ownt0SveZQKnsLauP2rOg)
+
+[Python基础之最新的73个内置函数（3）](https://mp.weixin.qq.com/s/tKBwtoFyUHhyTuyqs2rGUw)
+
+[Python基础之最新的73个内置函数（4）](https://mp.weixin.qq.com/s/Y36qc4Tkw0yQpQyuNdEmTA)
+
+[Python基础之最新的73个内置函数（5）](https://mp.weixin.qq.com/s/bsCLCRZBNiT25wOmU1-Kwg)
+
+[Python基础之最新的73个内置函数（6）](https://mp.weixin.qq.com/s/jPqx8q2rTG8MtpfZuCVJGw)
+
+[Python基础之最新的73个内置函数（7）](https://mp.weixin.qq.com/s/heBcQKNO7Ny1CCerZav__A)
 
 ### 虚拟环境和包管理器
 
@@ -44,6 +50,7 @@ Python2与Python3的9点差异对比总结
 [-Python3进阶：字典类型常见操作、运算及排序高级使用方法代码示例]()
 
 ### Python3标准库
+
 [Python开发者必备的基础技能之标准库（内置模块）代码案例汇总详细介绍（持续更新……）]()
 [Python3标准库1. abc类的定义规范模块实践]()
 [Python3标准库2. argparse程序命令行参数解析模块实践和代码示例]()
