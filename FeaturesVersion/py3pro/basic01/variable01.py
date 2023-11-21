@@ -105,3 +105,16 @@ e2 = eval("12.3")
 e3 = eval(28)  # TypeError: eval() arg 1 must be a string, bytes or code object
 print(e1, e2) # 123 12.3
 print(type(e1), type(e2)) # <class 'int'> <class 'float'>
+
+
+
+'''
+这是一个多行注释
+可以跨越多行
+'''
+def add(x, y):
+    """
+    这是一个函数的文档字符串
+    用于对函数进行解释和说明
+    """
+    return x + y
